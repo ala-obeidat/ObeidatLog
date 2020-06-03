@@ -1,6 +1,6 @@
 # ObeidatLog
 C#.Net very fast text file or SQL database log for web applications.
-I needed to record every request in my web application and after 3 months of searching and practicing for the best way to log a record without affecting the time of web request and performance.
+I needed to record every request in my web application and after 3 months of searching and practicing to get the best way for log a record without affecting the time of web request and performance.
 
 ### The main idea in this log is the sacrifice:
 1. **Instantaneous:** What I mean is that this log does not write the request instantaneously; it may be delayed for a maximum of 30 seconds, so as to ease the pressure on the IO.
