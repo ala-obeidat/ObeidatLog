@@ -59,3 +59,8 @@ I needed to record every request in my web application and after 3 months of sea
      - string value ( for multible valuse just seperate them with ",").
   -  **LogConnection:** connection string if source is Sql database.
      - string value.
+     
+### Technology Used For Projects:
+1. **ObeidatLog.Logger** Class Library (DLL with C#)
+2. **ObeidatLog.Reader** Windows Form Application (C#)
+3. **ObeidatLog.WebClient** ASP.NET Web Application (MVC with C#)
