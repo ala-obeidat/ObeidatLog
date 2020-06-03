@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObeidatLog.WebClient", "ObeidatLog.WebClient\ObeidatLog.WebClient.csproj", "{7A199F82-A478-4E9B-8270-D37163A1C03C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObeidatLog.Logger", "ObeidatLog.Logger\ObeidatLog.Logger.csproj", "{1AA9A227-3F42-4B61-83B0-35E3D4B42CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObeidatLog.Reader", "ObeidatLog.Reader\ObeidatLog.Reader.csproj", "{3A649B8D-F09E-4FD5-968F-3598A6C1D637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample Log files", "Sample Log files", "{C3399C7A-EDB7-47DB-AA04-55FF69256872}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Debug.txt = ..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Debug.txt
+		..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Exception.txt = ..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Exception.txt
+		..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Info.txt = ..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-26 - Info.txt
+		..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-28 Info.xml = ..\..\..\Downloads\Compressed\Obeidat-master\Obeidat-master\Log\ERent 2018-11-28 Info.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A199F82-A478-4E9B-8270-D37163A1C03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A199F82-A478-4E9B-8270-D37163A1C03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A199F82-A478-4E9B-8270-D37163A1C03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A199F82-A478-4E9B-8270-D37163A1C03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA9A227-3F42-4B61-83B0-35E3D4B42CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA9A227-3F42-4B61-83B0-35E3D4B42CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA9A227-3F42-4B61-83B0-35E3D4B42CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA9A227-3F42-4B61-83B0-35E3D4B42CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A649B8D-F09E-4FD5-968F-3598A6C1D637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A649B8D-F09E-4FD5-968F-3598A6C1D637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A649B8D-F09E-4FD5-968F-3598A6C1D637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A649B8D-F09E-4FD5-968F-3598A6C1D637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B045B799-9874-4269-9368-8737B2634296}
+	EndGlobalSection
+EndGlobal

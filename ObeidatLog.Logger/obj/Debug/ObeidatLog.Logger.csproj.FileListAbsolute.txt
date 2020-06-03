@@ -1,0 +1,5 @@
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Logger\obj\Debug\ObeidatLog.Logger.csproj.CoreCompileInputs.cache
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Logger\bin\Debug\ObeidatLog.Logger.dll
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Logger\bin\Debug\ObeidatLog.Logger.pdb
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Logger\obj\Debug\ObeidatLog.Logger.dll
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Logger\obj\Debug\ObeidatLog.Logger.pdb

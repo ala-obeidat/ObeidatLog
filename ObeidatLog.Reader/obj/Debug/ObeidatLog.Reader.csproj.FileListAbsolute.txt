@@ -1,0 +1,9 @@
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\bin\Debug\ObeidatLog.Reader.exe.config
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\bin\Debug\ObeidatLog.Reader.exe
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\bin\Debug\ObeidatLog.Reader.pdb
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.csprojAssemblyReference.cache
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.Properties.Resources.resources
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.csproj.GenerateResource.cache
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.csproj.CoreCompileInputs.cache
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.exe
+C:\Users\aseel\source\repos\ObeidatLog\ObeidatLog.Reader\obj\Debug\ObeidatLog.Reader.pdb
