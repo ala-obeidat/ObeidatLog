@@ -5,7 +5,7 @@ I needed to record every request in my web application and after 3 months of sea
 ### The main idea in this log is the sacrifice:
 1. **Instantaneous:** What I mean is that this log does not write the request instantaneously; it may be delayed for a maximum of 30 seconds, so as to ease the pressure on the IO.
 2. **Ordering:** This is because the requests written in the log are written with the time and thus there is no need to arrange which expedits the writing of the requests once.
-3. **Unblocking resources:** by using [Blocking Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.concurrent.blockingcollection-1?view=netframework-4.7.2) we get rid of block writeing resources like text file to handle multiple write at the same time.
+
 
 ### Log types:
 1. text file.
