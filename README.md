@@ -29,8 +29,8 @@ I needed to record every request in my web application and after 3 months of sea
   - Method name.
   - Line number.
   - Caption (optional).
-- The exception message come from every inner-exceptions(if exests) for this exception.
-- The debug wite with every request body:
+- The exception message comes with every inner-exceptions(if exests) for this exception.
+- The debug comes with every request body:
   - IP address.
   - Device name. 
   - HTTP method.
@@ -48,6 +48,7 @@ I needed to record every request in my web application and after 3 months of sea
   -  **LogSource:** log writting source
      - 0 => Text file.
      - 1 => Sql Database.
+     - 2 => XML File.
   -  **LogName:** the name of project
      - string value.
   -  **LogCapacity:** how many items will hold in buffer until write them to the source.
