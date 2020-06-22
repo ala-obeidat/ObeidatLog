@@ -13,7 +13,7 @@ I needed to record every request in my web application and after 3 months of sea
 3. XML file.
 
 ### Its advantages are as follows:
-- It can carry a very large number of concarent requests; by stored list of requests in a series with a capacity an item and write it once upon completion of the arrival to the limit or after 30 seconds.
+- It can carry a very large number of concarent requests; by stored list of requests in a queue with a capacity an item and write it once upon completion of the arrival to the limit or after 30 seconds.
 - Replace the IO lock by using [Blocking Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.concurrent.blockingcollection-1?view=netframework-4.7.2), which ensures the speed and it is [thread-safe](https://msdn.microsoft.com/en-us/library/a8544e2s.aspx).
 - All actions in the log run on different thread and therefore do not affect the speed or performance of the system.
 - It has windows application tool for read, sort and filter items in the log.
