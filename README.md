@@ -10,6 +10,7 @@ I needed to record every request in my web application and after 3 months of sea
 ### Log types:
 1. text file.
 2. Database tabels.
+3. XML file.
 
 ### Its advantages are as follows:
 - It can carry a very large number of concarent requests; by stored list of requests in a series with a capacity an item and write it once upon completion of the arrival to the limit or after 30 seconds.
