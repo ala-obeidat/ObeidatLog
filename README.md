@@ -18,7 +18,7 @@ I needed to record every request in my web application and after 3 months of sea
 - It has windows application tool for read, sort and filter items in the log.
 - Replace the check-conditions when choosing the level or type by using [Template design pattern](https://en.wikipedia.org/wiki/Template_method_pattern) so reduce the time of check the level or type in every write log item.
 - When selecting a file (text or XML), the log creates a file for each day and names it with system name and the date of the day for each level of the record. When selecting a database, the log creates a table for each level (if not exists) with system name and the level.
-- The record contains 4 different levels:
+- The log has 4 different levels:
   - None.
   - Exceptions only.
   - Exceptions and Information.
